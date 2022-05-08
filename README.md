@@ -17,4 +17,5 @@
 \f1 \cf0 A\
 
 %%
+it now includes steps from git tutorial
 }
